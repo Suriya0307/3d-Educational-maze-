@@ -4,7 +4,7 @@ An interactive educational 3D maze game built by enhancing an existing open-sour
 
 🚀 Features 🔍 Pathfinding Algorithms
 
-We integrated five popular algorithms and visualized them on a minimap:
+We integrated five popular algorithms and visualized them on a minimap:     
 
 Breadth-First Search (BFS) → Always finds the shortest path.
 
