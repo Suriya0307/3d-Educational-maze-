@@ -46,3 +46,6 @@ This project is not just a maze game — it’s also an interactive learning too
 
 HTML,CSS,python,JavaScript (core game logic)
 
+Hackathon Build 
+
+
